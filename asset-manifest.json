@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/react-redux-thunk-demo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-redux-thunk-demo/static/js/main.f293ab23.chunk.js",
-    "main.js.map": "/react-redux-thunk-demo/static/js/main.f293ab23.chunk.js.map",
-    "runtime-main.js": "/react-redux-thunk-demo/static/js/runtime-main.6f5ad942.js",
-    "runtime-main.js.map": "/react-redux-thunk-demo/static/js/runtime-main.6f5ad942.js.map",
+    "main.js": "/react-redux-thunk-demo/static/js/main.52ebf87b.chunk.js",
+    "main.js.map": "/react-redux-thunk-demo/static/js/main.52ebf87b.chunk.js.map",
+    "runtime-main.js": "/react-redux-thunk-demo/static/js/runtime-main.3688c67e.js",
+    "runtime-main.js.map": "/react-redux-thunk-demo/static/js/runtime-main.3688c67e.js.map",
     "static/css/2.d34346ea.chunk.css": "/react-redux-thunk-demo/static/css/2.d34346ea.chunk.css",
-    "static/js/2.5dc6ad56.chunk.js": "/react-redux-thunk-demo/static/js/2.5dc6ad56.chunk.js",
-    "static/js/2.5dc6ad56.chunk.js.map": "/react-redux-thunk-demo/static/js/2.5dc6ad56.chunk.js.map",
+    "static/js/2.62064ceb.chunk.js": "/react-redux-thunk-demo/static/js/2.62064ceb.chunk.js",
+    "static/js/2.62064ceb.chunk.js.map": "/react-redux-thunk-demo/static/js/2.62064ceb.chunk.js.map",
     "index.html": "/react-redux-thunk-demo/index.html",
-    "precache-manifest.b2c069d8a9be1a1de0d0fd3a307f31c1.js": "/react-redux-thunk-demo/precache-manifest.b2c069d8a9be1a1de0d0fd3a307f31c1.js",
+    "precache-manifest.1127a1c5c21f83d8344341a95b71fda2.js": "/react-redux-thunk-demo/precache-manifest.1127a1c5c21f83d8344341a95b71fda2.js",
     "service-worker.js": "/react-redux-thunk-demo/service-worker.js",
     "static/css/2.d34346ea.chunk.css.map": "/react-redux-thunk-demo/static/css/2.d34346ea.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/react-redux-thunk-demo/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5dc6ad56.chunk.js.LICENSE.txt": "/react-redux-thunk-demo/static/js/2.5dc6ad56.chunk.js.LICENSE.txt"
+    "static/js/2.62064ceb.chunk.js.LICENSE.txt": "/react-redux-thunk-demo/static/js/2.62064ceb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f5ad942.js",
+    "static/js/runtime-main.3688c67e.js",
     "static/css/2.d34346ea.chunk.css",
-    "static/js/2.5dc6ad56.chunk.js",
+    "static/js/2.62064ceb.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f293ab23.chunk.js"
+    "static/js/main.52ebf87b.chunk.js"
   ]
 }
