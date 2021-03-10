@@ -1,5 +1,5 @@
 import React from "react";
-import { Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch, Redirect } from "react-router-dom";
 import SearchPage from "./search/SearchPage";
 import { ToastContainer } from "react-toastify";
 import "./App.css";
@@ -7,10 +7,14 @@ import "./App.css";
 function App() {
   return (
     <>
-      <Switch>
-        <Route exact path="/" component={SearchPage} />
-      </Switch>
-      <ToastContainer position="top-right" />
+          <HashRouter basename={process.env.PUBLIC_URL}>
+        <Route render={({ location }) => (
+          <Switch location={location}>
+            <Route exact path="/"><Redirect to="/SearchPage" /></Route>
+            <Route path='/SearchPage' exact component={SearchPage} />
+          </Switch>
+        )} />
+      </HashRouter>
     </>
   );
 }

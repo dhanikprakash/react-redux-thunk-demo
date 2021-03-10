@@ -1,6 +1,6 @@
 {
   "homepage": "https://dhanikprakash.github.io/react-redux-thunk-demo",
-  "name":"react-redux-thunk-demo",
+  "name":"react-redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
